@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656627346721",
+    "project_id": "sample-51e10",
+    "storage_bucket": "sample-51e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656627346721:android:5be84a12283600f102a260",
+        "android_client_info": {
+          "package_name": "com.example.authscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZK560CyS_4Nj4eLQWqUUUul8HViMi4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656627346721:android:03f227384de3e10e02a260",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZK560CyS_4Nj4eLQWqUUUul8HViMi4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
